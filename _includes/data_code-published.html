@@ -1,0 +1,12 @@
+<ol reversed="reversed">
+  {% for paper in site.data.data_code-published %}
+  <li>
+    <p>
+      {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}. {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}} <em>{{ paper.journal }}</em>.
+      {% if paper.data-url %}<a href="{{ paper.data-url }}" target="_blank"><i class="fas fa-database"></i></a>{% endif %}
+      {% if paper.github %}<a href="{{ paper.github }}" target="_blank"><i class="fab fa-github"></i></a>{% endif %}
+      <!--         {% if paper.openaccess == true %}<i class="fas fa-unlock-alt"></i>{% endif %} -->
+    </p>
+  </li>
+  {% endfor %}
+</ol>

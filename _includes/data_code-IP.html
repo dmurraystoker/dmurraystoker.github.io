@@ -1,0 +1,11 @@
+<ol reversed="reversed">
+  {% for paper in site.data.data_code-IP %}
+  <li>
+    <p>
+      {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}}
+      {% if paper.data-url %}<a href="{{ paper.data-url }}" target="_blank"><i class="fas fa-database"></i></a>{% endif %}
+      {% if paper.github %}<a href="{{ paper.github }}" target="_blank"><i class="fab fa-github"></i></a>{% endif %}
+    </p>
+  </li>
+  {% endfor %}
+</ol>

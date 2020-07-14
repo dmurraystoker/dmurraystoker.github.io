@@ -1,0 +1,12 @@
+<ol reversed="reversed">
+  {% for pres in site.data.invited %}
+  <li>
+      <p style="text-align:left;">
+        {{ pres.conference }}, {{ pres.location }} {% if pres.url %}<a href="{{ pres.url }}" target="_blank"><i class="far fa-file-powerpoint"></i></a>{% endif %} {% if pres.video %}<a href="{{ pres.video }}" target="_blank"><i class="fab fa-youtube"></i></a>{% endif %}
+      <span style="float:right;">
+        {{ pres.year }}
+      </span>
+      </p>
+  </li>
+  {% endfor %}
+</ol>

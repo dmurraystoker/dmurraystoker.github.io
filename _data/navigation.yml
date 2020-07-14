@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Open Science"
+    url: /open_science/
+  - title: "Blog"
+    url: /posts/

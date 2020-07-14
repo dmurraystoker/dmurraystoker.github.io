@@ -1,0 +1,9 @@
+<ol reversed="reversed">
+  {% for paper in site.data.book-chapters %}
+  <li>
+      <p>
+        {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}, {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}}, In: <em>{{ paper.booktitle }}</em>. Edited by: {{paper.editors}}. pp. {{ paper.pages }}. {{paper.publisher}}.
+      </p>
+  </li>
+  {% endfor %}
+</ol>

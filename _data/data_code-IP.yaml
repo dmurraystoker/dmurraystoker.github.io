@@ -1,0 +1,21 @@
+---
+
+- id: Murray-Stoker_Johnson_IP
+  authors: Murray-Stoker, D., and M. T. J. Johnson
+  title: Ecological consequences of urbanization on a legume-rhizobia mutualism.
+  data-url: https://osf.io/dejyt/
+  github: https://github.com/dmurraystoker/TRhizo-urbanTerreN
+  
+- id: Murray-Stoker_Murray-Stoker_IP
+  authors: Murray-Stoker, and D. Murray-Stoker
+  title: Biogeographical patterns of functional trait diversity of macroinvertebrate communities in rivers and streams.
+  data-url: https://osf.io/62je8/
+  github: https://github.com/dmurraystoker/NRSA-FD
+  
+- id: Murray-Stoker_IP
+  authors: Murray-Stoker, D
+  title: Environmental filtering and niche (mis)matching of riverine invertebrate communities.
+  data-url: https://osf.io/v26rm/
+  github: https://github.com/dmurraystoker/NRSA-DisEQ
+  
+---
