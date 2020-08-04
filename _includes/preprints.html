@@ -1,12 +1,13 @@
 <ol reversed="reversed">
   {% for paper in site.data.preprints %}
   <li>
-      <p>
-        {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}, {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}}, <em>{{ paper.journal }}</em>. Posted: {{ paper.posted }}.
-        {% if paper.url %}<a href="{{ paper.url }}" target="_blank"><i class="fas fa-link"></i></a>{% endif %}
-        {% if paper.data-url %}<a href="{{ paper.data-url }}" target="_blank"><i class="fas fa-database"></i></a>{% endif %}
-        {% if paper.github %}<a href="{{ paper.github }}" target="_blank"><i class="fab fa-github"></i></a>{% endif %}
-      </p>
+    <p>
+      {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}. {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}} <em>{{ paper.journal }}</em> {% if paper.volume %} <strong>{{ paper.volume }}</strong>:{% endif %} {{ paper.pages }}.
+      {% if paper.pdf-url %}<a href="{{ paper.pdf-url }}" target="_blank"><i class="far fa-file-pdf"></i></a>{% endif %}
+      {% if paper.data-url %}<a href="{{ paper.data-url }}" target="_blank"><i class="fas fa-database"></i></a>{% endif %}
+      {% if paper.github %}<a href="{{ paper.github }}" target="_blank"><i class="fab fa-github"></i></a>{% endif %}
+      <!--         {% if paper.openaccess == true %}<i class="fas fa-unlock-alt"></i>{% endif %} -->
+    </p>
   </li>
   {% endfor %}
 </ol>
