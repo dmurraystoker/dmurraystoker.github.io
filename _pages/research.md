@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 classes: wide
 toc: true
-last_modified_at: 22 May 2020
+last_modified_at: 9 August 2020
 ---
 
 ## Mutualisms
@@ -24,7 +24,7 @@ For my thesis research, I will be sampling white clover, rhizobia, and soil alon
 
 
 ## Rhizobia Identification
-![](../assets/images/rhizobia.laminar.hood.2.jpg){: .align-right} During my thesis research, I have discovered a methodological gap: rapid and high-throughput identification of rhizobia at low cost. Despite other methods demonstrating the ability to identify strains based on DNA fingerprinting, restriction fragment length polymorphism (RFLPs) or direct sequencing of conserved (e.g. 16S V4, 16S V5-V7) or variable, symbiotic genes (e.g. _nodA_, _nodD_, _nifK_), these methods are generally not rapid assessment at low cost and preclude differentiation and identification of rhizobia in the wet lab. Although still in the development stage, I am developing a method using a combination of conserved (e.g. _rosR_) and symbiotic (e.g. _nodA_, _nodD_) genes to compare RFLP patterns against reference rhizobia type strains across the Rhizobiales. This project aims to develop a wet lab method for rhizobia identification requiring only (1) PCR, (2) enzyme-digestion, and (3) comparison of RFLP patterns to reference strains with known cut sites and band lengths on a gel.
+![](../assets/images/rhizobia.laminar.hood.2.jpg){: .align-right} During my thesis research, I have discovered a methodological gap for my projects: rapid and high-throughput identification of rhizobia at low cost. Despite other methods demonstrating the ability to identify strains based on DNA fingerprinting, restriction fragment length polymorphism (RFLPs) or direct sequencing of conserved (e.g. 16S V4, 16S V5-V7) or variable, symbiotic genes (e.g. _nodA_, _nifDK_), these methods are generally not rapid assessment at low cost and preclude differentiation and identification of rhizobia without leaving the wet lab. Although still in the development stage, I am developing a method using a combination of conserved (e.g. _rosR_) and symbiotic (e.g. _nodA_, _nodD_) genes to compare RFLP patterns against reference rhizobia type strains across the Rhizobiaceae, with a focus on _Rhizobium_ spp. This project aims to develop a wet lab method for rhizobia identification requiring only (1) PCR, (2) enzyme-digestion, and (3) comparison of RFLP patterns to reference strains with known cut sites and band lengths on a gel. I will also employ direct sequencing of some of my target genes (i.e. 16S V5-V7, _rosR_, _nodA_, and _nifDK_) to confirm the accuracy of the method.
 
 
 ## Community Assembly
@@ -39,4 +39,4 @@ For my thesis research, I will be sampling white clover, rhizobia, and soil alon
  
 ## Niches & Community Equilibrium
 
-![](../assets/images/DisEQ.conceptual.figure.2.png){: .align-left} Understanding and predicting community responses to environmental change are essential components of community ecology. Evaluating how community composition relates to the environmental niche of organisms comprising the community is one way to measure the effect of environmental filtering and community equilibrium. Through the [framework of disequilibrium theory](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/14-0589.1), I am investigating which environmental variables push communities towards niche (mis)matching in aquatic systems, both freshwater and marine, and how we can predict these phenomena to inform ecological theory and conservation efforts.
+![](../assets/images/DisEQ.conceptual.figure.2.png){: .align-left} Understanding and predicting community responses to environmental change are essential components of community ecology. Evaluating how community composition relates to the environmental niche of organisms comprising the community is one way to measure the effect of environmental filtering and community equilibrium. Through the [framework of disequilibrium theory](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/14-0589.1), I am working with Kelly Murray-Stoker, Maryanna Kong, and Fathima Amanat to investigate which environmental variables push communities towards niche (mis)matching in rivers and streams and how we can predict these phenomena to inform ecological theory and conservation efforts.
