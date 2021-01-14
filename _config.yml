@@ -26,7 +26,7 @@ masthead_title           : "" # overrides the website title displayed in the mas
 author:
   name             : "David Murray-Stoker"
   avatar           : "assets/images/DMS.3.jpg"
-  bio              : "Ph.D. student, Department of Ecology & Evolutionary Biology, University of Toronto"
+  bio              : "Ph.D. candidate, Department of Ecology & Evolutionary Biology, University of Toronto"
   location         : "Toronto, Canada"
   email            : dstoker92@gmail.com
   cv               : /assets/docs/DMS-CV.pdf
