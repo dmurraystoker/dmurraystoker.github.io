@@ -9,13 +9,6 @@
 - id: Murray-Stoker_et_al_IP
   authors: Murray-Stoker, D., K. M. Murray-Stoker, Fan Peng Kong, and Fathima Amanat.
   title: Environmental filtering and niche (mis)matching of riverine invertebrate communities.
-  data-url: https://osf.io/v26rm/
   github: https://github.com/dmurraystoker/NRSA-DisEQ
-  
-- id: Murray-Stoker_Murray-Stoker_IP
-  authors: Murray-Stoker, and D. Murray-Stoker
-  title: Biogeographical patterns of functional trait diversity of macroinvertebrate communities in rivers and streams.
-  data-url: https://osf.io/62je8/
-  github: https://github.com/dmurraystoker/NRSA-FD
   
 ---
