@@ -20,6 +20,7 @@
   pages: 514-524
   openaccess: false
   pdf-url: https://onlinelibrary.wiley.com/doi/full/10.1111/een.12822
+  data-url: https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687
 
 - id: Murray-Stoker2020
   authors: Murray-Stoker, D.
@@ -29,7 +30,7 @@
   volume: 611939
   pages: 1-17. version 7. Peer-reviewed and recommended by Peer Community In Ecology doi, 10.24072/pci.ecology.100052
   openaccess: true
-  pdf-url: https://www.biorxiv.org/content/10.1101/611939v7
+  pdf-url: https://www.biorxiv.org/content/10.1101/611939v8
   data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
 
 - id: Murray_et_al_2018
