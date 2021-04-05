@@ -10,6 +10,16 @@
   openaccess: false
   pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13220
   data-url: https://osf.io/62je8/
+
+- id: Santangelo_et_al_2020
+  authors: Santangelo J. S., L. S. Miles, S. T. Breitbart, D. Murray-Stoker, L. R. Rivkin, M. T. J. Johnson, and R. W. Ness.
+  title: Urban environments as a framework to study parallel evolution
+  booktitle: Urban Evolutionary Biology
+  publisher: Oxford University Press
+  editors: Marta Szulkin, Jason Munshi-South, and Anne Charmantier
+  year: 2020
+  pdf-url: https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3
+  pages: 389-410
   
 - id: Murray-Stoker_et_al_2020
   authors: Murray-Stoker, K. M., D. P. Batzer, D. Murray-Stoker, and J. V. McHugh
