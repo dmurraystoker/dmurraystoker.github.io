@@ -1,0 +1,58 @@
+---
+
+- id: Murray-Stoker_Murray-Stoker2020
+  authors: Murray-Stoker, D., and K. M. Murray-Stoker
+  title: Consistent metacommunity structure despite inconsistent drivers of assembly at the continental scale.
+  journal: Journal of Animal Ecology
+  year: 2020
+  volume: 89
+  pages: 1678-1689
+  openaccess: false
+  pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13220
+  data-url: https://osf.io/62je8/
+  
+- id: Murray-Stoker_et_al_2020
+  authors: Murray-Stoker, K. M., D. P. Batzer, D. Murray-Stoker, and J. V. McHugh
+  title: Shifts in the community composition of caddisflies (Insecta, Trichoptera) in a subtropical river over three decades
+  journal: Ecological Entomology
+  year: 2020
+  volume: 45
+  pages: 514-524
+  openaccess: false
+  pdf-url: https://onlinelibrary.wiley.com/doi/full/10.1111/een.12822
+  data-url: https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687
+
+- id: Murray-Stoker2020
+  authors: Murray-Stoker, D.
+  title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
+  journal: bioRxiv
+  year: 2020
+  volume: 611939
+  pages: 1-17. version 7. Peer-reviewed and recommended by Peer Community In Ecology doi, 10.24072/pci.ecology.100052
+  openaccess: true
+  pdf-url: https://www.biorxiv.org/content/10.1101/611939v8
+  data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
+
+- id: Murray_et_al_2018
+  authors: Murray, K. M., D. Stoker, C. M. Pringle, and T. N. Simon
+  title: Is spatial variation in population size structures of a stream-dwelling caddisfly due to the altered effects of a predator by a thirdparty species?
+  journal: Hydrobiologia
+  year: 2018
+  volume: 820
+  pages: 65-77
+  openaccess: false
+  pdf-url: https://link.springer.com/article/10.1007/s10750-018-3674-0
+  data-url: https://figshare.com/articles/Phylloicus_hansoni_larval_population_size_structures_in_both_predator-only_and_predator-third_party_stream_settings/5856651
+
+- id: Stoker_et_al_2017
+  authors: Stoker, D., A. J. Falkner, K. M. Murray, A. K. Lang, T. R. Barnum, J. Hepinstall-Cymerman, M. J. Conroy, R. J. Cooper, and C. M. Pringle. 2017
+  title: Decomposition of terrestrial resource subsidies in headwater streams, Does consumer diversity matter?
+  journal: Ecosphere
+  year: 2017
+  volume: 8
+  pages: e01868
+  openaccess: true
+  pdf-url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1868
+  data-url: https://figshare.com/articles/Decomposition_of_terrestrial_resource_subsidies_in_headwater_streams_Does_consumer_diversity_matter_/6025811
+
+---
