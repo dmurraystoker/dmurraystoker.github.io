@@ -1,6 +1,6 @@
 ---
 
-- id: Murray-Stoker_Johnson_in_press
+- id: Murray-Stoker-Johnson-in-press
   authors: Murray-Stoker, D., and M. T. J. Johnson
   title: Ecological consequences of urbanization on a legume-rhizobia mutualism.
   journal: Oikos
@@ -8,10 +8,10 @@
   volume:
   pages:
   openaccess: false
-  pdf-url: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13220
-  data-url: https://osf.io/62je8/
+  pdf-url:
+  data-url:
   
-  - id: Barnum_et_al_in_press
+  - id: Barnum-et-al-in-press
   authors: Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, D. Murray-Stoker, C. Colon-Gaud, A. T. Rugenski, T. C. Frauendorf, S. Connelly, S. S. Kilham, M. R. Whiles, K. R. Lips, and C. M. Pringle.
   title: Mechanisms underlying lack of functional compensation by insect grazers after tadpole declines in a Neotropical stream.
   journal: Limnology and Oceanography
