@@ -12,7 +12,7 @@ last_modified_at: 5 August 2021
 
 ## Ecological consequences of urbanization a legume-rhizobia mutualism
 
-![](../assets/images/clover_cartoon.jpg){: .align-left} 
+![](../assets/images/clover_lab_2018.jpg){: .align-left} 
 
 Mutualisms between plants and microbes are critical for community development and ecosystem structure and function. One example of a plant-microbial mutualism is between legumes and rhizobia, whereby legumes provides photosynthate and nodule habitat to rhizobia in return for nitrogen (N) fixed by the rhizobia. For my thesis research, I am using the mutualism between white clover (_Trifolium repens_) and its primary rhizobial symbiont, _Rhizobium leguminosarum_ biovar _trifolii_, to study how urbanization affects the ecology and evolution of mutualisms. 
 
