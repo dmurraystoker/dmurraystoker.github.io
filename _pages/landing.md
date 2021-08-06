@@ -28,8 +28,8 @@ feature_row:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/coweeta_woods_fall_colour.jpg
-    alt: "Woods bear Bearpen Creek, Coweeta LTER, Otto, NC, USA"
+  - image_path: /assets/images/lab_car_rural_2018.jpg
+    alt: "Parked outside of Burlington, ON, CA"
     title: "Posts"
     excerpt: "Personal thoughts and rambles"
     url: /posts/
