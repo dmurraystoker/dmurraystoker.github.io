@@ -20,7 +20,7 @@ feature_row:
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/stream_HE1_riffle.jpg
+  - image_path: /assets/images/coweeta_woods_fall_colour.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Bearpen Creek, Coweeta LTER, Otto, NC, USA"
     title: "Publications"
