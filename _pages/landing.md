@@ -16,7 +16,6 @@ feature_row:
   - image_path: /assets/images/clover_MN_building.jpeg
     alt: "White clover in Mississauga, ON, CA"
     title: "Research"
-    excerpt: "Past & ongoing research"
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
@@ -24,14 +23,12 @@ feature_row:
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Bearpen Creek, Coweeta LTER, Otto, NC, USA"
     title: "Publications"
-    excerpt: "Published papers & pre-prints"
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
   - image_path: /assets/images/lab_car_rural_2018.jpg
     alt: "Parked outside of Burlington, ON, CA"
-    title: "Posts"
-    excerpt: "Personal thoughts and rambles"
+    title: "Blog Posts"
     url: /posts/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
