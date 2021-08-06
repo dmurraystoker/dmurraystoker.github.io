@@ -18,14 +18,14 @@ url                      : https://dmurraystoker.github.io
 # baseurl                  : /landing
 repository               : dmurraystoker/dmurraystoker.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/lithophragma-parviflorum.jpg" # path of logo image to display in the masthead
+logo                     : #"/assets/images/" # path of logo image to display in the masthead
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 
 
 # Site author
 author:
   name             : "David Murray-Stoker"
-  avatar           : "assets/images/DMS.3.jpg"
+  avatar           : "assets/images/DMS.2.jpg"
   bio              : "Ph.D. candidate, Department of Ecology & Evolutionary Biology, University of Toronto"
   location         : "Toronto, Canada"
   email            : dstoker92@gmail.com
