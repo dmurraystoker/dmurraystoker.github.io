@@ -13,7 +13,7 @@ intro:
   - excerpt: 'I am currently a Ph.D. student under the supervision of [Marc Johnson](https://evoecolab.wordpress.com/) studying the ecology and evolution of plant-microbe interactions in urban environments.'
 
 feature_row:
-  - image_path: /assets/images/clover_MN_building.jpeg
+  - image_path: /assets/images/clover_MN_building.jpg
     alt: "White clover in Mississauga, ON, CA"
     title: "Research"
     url: /research/
