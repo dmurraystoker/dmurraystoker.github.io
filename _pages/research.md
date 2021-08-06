@@ -5,23 +5,32 @@ author_profile: true
 title: "Research"
 classes: wide
 toc: true
-last_modified_at: 20 September 2020
+last_modified_at: 5 August 2021
 ---
 
-## Mutualisms
+# Urban Ecology & Evolution
 
-![](../assets/images/clover.7.2.jpg){: .align-left} Mutualisms between plants and microbes are critical for community development and ecosystem structure and function. One example of a plant-microbial mutualism is between legumes and rhizobia, whereby legumes provides photosynthate and nodule habitat to rhizobia in return for nitrogen (N) fixed by the rhizobia. For my thesis research, I am using the mutualism between white clover (_Trifolium repens_) and its primary rhizobial symbiont, _Rhizobium leguminosarum_ biovar _trifolii_ to study how urbanization affects the ecology and evolution of mutualisms. 
+## Ecological consequences of urbanization a legume-rhizobia mutualism
+
+![](../assets/images/clover.7.2.jpg){: .align-left} Mutualisms between plants and microbes are critical for community development and ecosystem structure and function. One example of a plant-microbial mutualism is between legumes and rhizobia, whereby legumes provides photosynthate and nodule habitat to rhizobia in return for nitrogen (N) fixed by the rhizobia. For my thesis research, I am using the mutualism between white clover (_Trifolium repens_) and its primary rhizobial symbiont, _Rhizobium leguminosarum_ biovar _trifolii_, to study how urbanization affects the ecology and evolution of mutualisms. 
+
+
+## Microbiome assembly in urban environments
+
+![](../assets/images/clover.4.2.jpg){: .align-left} Bacteria and fungi comprising the microbiome are important for plant community assembly, physiology, and response to stressors1, 2. As bacteria and fungi can have different functional roles relative to rhizobia, the function of the root microbiome is a multifaceted and emergent property of the ecological roles played by rhizobia, bacteria, and fungi. Alterations to microbiome structure could therefore strongly impact plant communities and associated ecosystem functions.
 <br>
 <br>
-![](../assets/images/greenhouse.1.2.jpg){: .align-right} My thesis research seeks to identify (1) the ecological consequences of urbanization on white clover-rhizobia interactions and (2) how urbanization alters GxG and GxGxE interactions between white clover and rhizobia.
+For my thesis research, I will be sampling white clover, rhizobia, and soil along an urbanization gradient in Toronto, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. 
+
+I will then complement this work using a manipulative growth chamber experiment to determine how soil microbial communities alter the focal white clover-rhizobia mutualism. I contend that the actual outcome and (co)evolutionary trajectory of legume-rhizobia interactions can only be fully understood when looking at the microbiome as a whole and not as a simplfied, pairwise interaction.
 
 
-## Microbiomes
-![](../assets/images/clover.4.2.jpg){: .align-left} Microbiomes are pervasive across the plant and animal kingdoms. For plants in particular, the microbiome is critical for community assembly and mitigation and adaptation to biotic and abiotic stress. Mounting evidence suggests that inferences about plant evolutionary history cannot be made without including the coevolution of its associated bacterial and fungal microbiome. There is also evidence that microbiome composition within a host can vary across spatial scales resulting from differential microbial community composition and environmental context.
-<br>
-<br>
-For my thesis research, I will be sampling white clover, rhizobia, and soil along an urbanization gradient in Toronto, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition in urban environments. I will then complement this work using a manipulative growth chamber experiment to determine how soil microbial communities alter the focal white clover-rhizobia mutualism. I contend that the actual outcome and (co)evolutionary trajectory of legume-rhizobia interactions can only be fully understood when looking at the microbiome as a whole and not as a simplfied, pairwise interaction.
+## (Co)Evolutionary ecology of microbiomes in the urban mosaic
 
+
+
+
+# (Meta)Community Ecology
 
 ## Community Assembly
 
