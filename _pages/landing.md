@@ -13,26 +13,26 @@ intro:
   - excerpt: 'I am currently a Ph.D. student under the supervision of [Marc Johnson](https://evoecolab.wordpress.com/) studying the ecology and evolution of plant-microbe interactions in urban environments.'
 
 feature_row:
-  - image_path: /assets/images/rural.1.jpg
-    alt: "Franklin, NC, USA"
+  - image_path: /assets/images/clover_MN_building.jpeg
+    alt: "White clover in Mississauga, ON, CA"
     title: "Research"
     excerpt: "Past & ongoing research"
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/pond.1.jpg
+  - image_path: /assets/images/stream_HE1_riffle.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Jordan Pond, Acadia National Park, ME, USA"
+    alt: "Bearpen Creek, Coweeta LTER, Otto, NC, USA"
     title: "Publications"
     excerpt: "Published papers & pre-prints"
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/woods.1.jpg
+  - image_path: /assets/images/coweeta_woods_fall_colour.jpg
     alt: "Woods bear Bearpen Creek, Coweeta LTER, Otto, NC, USA"
-    title: "Open Science"
-    excerpt: "Open data & R code"
-    url: /open_science/
+    title: "Posts"
+    excerpt: "Personal thoughts and rambles"
+    url: /posts/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
 
