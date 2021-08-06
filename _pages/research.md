@@ -17,7 +17,6 @@ last_modified_at: 5 August 2021
 Mutualisms between plants and microbes are critical for community development and ecosystem structure and function. One example of a plant-microbial mutualism is between legumes and rhizobia, whereby legumes provides photosynthate and nodule habitat to rhizobia in return for nitrogen (N) fixed by the rhizobia. For my thesis research, I am using the mutualism between white clover (_Trifolium repens_) and its primary rhizobial symbiont, _Rhizobium leguminosarum_ biovar _trifolii_, to study how urbanization affects the ecology and evolution of mutualisms. 
 
 <br/>
-<br/>
 
 ## Microbiome assembly in urban environments
 
@@ -25,7 +24,6 @@ Mutualisms between plants and microbes are critical for community development an
 
 Urbanization can drive spatial variation in soil chemistry and nutrients, which can affect the assembly and composition of soil microbial communities. As plant microbiome assembly is ultimately determined by the microbes present in the local soil community, changes to soil microbial composition can affect plant microbiome assembly and function. Notwithstanding growing research into microbiomes, there is limited evidence demonstrating how microbiome assembly and diversity varies within and among natural populations of the same host. This project will begin to fill the gap by quantifying the urban-driven changes to microbiome structure. For my thesis research, I sampled white clover, rhizobia, and soil along an urbanization gradient in the Greater Toronto Area, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. I am in the process of extracting DNA and preparing samples for sequencing by the end of 2021, and analyzing data and communicating the results in 2022.
 
-<br/>
 <br/>
 
 ## (Co)Evolutionary ecology of microbiomes in the urban mosaic
@@ -36,7 +34,6 @@ Bacteria and fungi comprising the microbiome are important for plant community a
 
 For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (home, away-rural, and away-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combinations (1080 total plants). At the end of the experiment, I will measure plant and rhizobia variables related performance and fitness. I will also sequence a subset of samples to compare microbiome composition and diversity across populations and treatments. I hope to eventually extend this work to evaluate the community- and ecosystem-level feedbacks in the white clover-rhizobia mutualism.
 
-<br/>
 <br/>
 
 # (Meta)Community Ecology
@@ -49,7 +46,6 @@ A fundamental question in community ecology is: what drives community assembly? 
 
 I am also interested in patterns and drivers of diversity, taxonomic, functional, and phylogenetic. Working with collaborators on open datasets, I want to quantify functional trait diversity of river and stream communities and to identify predictors of trait diversity across spatial scales. Additionally, I want to examine how communities and associated functional diversity respond to disturbance and environmental change at local, regional, and macroecological scales.
 
-<br/>
 <br/>
  
 ## Niches and community equilibrium
