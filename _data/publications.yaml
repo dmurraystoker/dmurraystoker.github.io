@@ -1,7 +1,7 @@
 ---
 
 - id: Murray-Stoker-Johnson_in_press
-  authors: Murray-Stoker, D., and M. T. J. Johnson
+  authors: Murray-Stoker, D., and M. T. J. Johnson.
   title: Ecological consequences of urbanization on a legume-rhizobia mutualism.
   journal: Oikos
   year: In press
@@ -23,7 +23,7 @@
   data-url:
 
 - id: Murray-Stoker_Murray-Stoker2020
-  authors: Murray-Stoker, D., and K. M. Murray-Stoker
+  authors: Murray-Stoker, D., and K. M. Murray-Stoker.
   title: Consistent metacommunity structure despite inconsistent drivers of assembly at the continental scale.
   journal: Journal of Animal Ecology
   year: 2020
@@ -34,7 +34,7 @@
   data-url: https://osf.io/62je8/
 
 - id: Santangelo_et_al_2020
-  authors: Santangelo J. S., L. S. Miles, S. T. Breitbart, D. Murray-Stoker, L. R. Rivkin, M. T. J. Johnson, and R. W. Ness
+  authors: Santangelo J. S., L. S. Miles, S. T. Breitbart, D. Murray-Stoker, L. R. Rivkin, M. T. J. Johnson, and R. W. Ness.
   title: Urban environments as a framework to study parallel evolution
   booktitle: Urban Evolutionary Biology
   publisher: Oxford University Press
@@ -44,7 +44,7 @@
   pages: 389-410
   
 - id: Murray-Stoker_et_al_2020
-  authors: Murray-Stoker, K. M., D. P. Batzer, D. Murray-Stoker, and J. V. McHugh
+  authors: Murray-Stoker, K. M., D. P. Batzer, D. Murray-Stoker, and J. V. McHugh.
   title: Shifts in the community composition of caddisflies (Insecta, Trichoptera) in a subtropical river over three decades
   journal: Ecological Entomology
   year: 2020
@@ -55,7 +55,7 @@
   data-url: https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687
 
 - id: Murray-Stoker2020
-  authors: Murray-Stoker, D
+  authors: Murray-Stoker, D.
   title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
   journal: bioRxiv
   year: 2020
@@ -66,7 +66,7 @@
   data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
 
 - id: Murray_et_al_2018
-  authors: Murray, K. M., D. Stoker, C. M. Pringle, and T. N. Simon
+  authors: Murray, K. M., D. Stoker, C. M. Pringle, and T. N. Simon.
   title: Is spatial variation in population size structures of a stream-dwelling caddisfly due to the altered effects of a predator by a thirdparty species?
   journal: Hydrobiologia
   year: 2018
