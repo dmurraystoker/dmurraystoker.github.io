@@ -1,5 +1,27 @@
 ---
 
+- id: Murray-Stoker-Johnson_in_press
+  authors: Murray-Stoker, D., and M. T. J. Johnson
+  title: Ecological consequences of urbanization on a legume-rhizobia mutualism.
+  journal: Oikos
+  year: In press
+  volume: TBD
+  pages: TDB
+  openaccess: false
+  pdf-url: https://www.biorxiv.org/content/10.1101/2021.01.24.427992v2
+  data-url: https://zenodo.org/record/4459724#.YQx6RtNKgbk
+  
+- id: Barnum_et_al_in_press
+  authors: Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, D. Murray-Stoker, C. Colon-Gaud, A. T. Rugenski, T. C. Frauendorf, S. Connelly, S. S. Kilham, M. R. Whiles, K. R. Lips, and C. M. Pringle.
+  title: Mechanisms underlying lack of functional compensation by insect grazers after tadpole declines in a Neotropical stream.
+  journal: Limnology and Oceanography
+  year: In press
+  volume: TBD
+  pages: TBD
+  openaccess: false
+  pdf-url:
+  data-url:
+
 - id: Murray-Stoker_Murray-Stoker2020
   authors: Murray-Stoker, D., and K. M. Murray-Stoker
   title: Consistent metacommunity structure despite inconsistent drivers of assembly at the continental scale.
@@ -12,13 +34,13 @@
   data-url: https://osf.io/62je8/
 
 - id: Santangelo_et_al_2020
-  authors: Santangelo J. S., L. S. Miles, S. T. Breitbart, D. Murray-Stoker, L. R. Rivkin, M. T. J. Johnson, and R. W. Ness.
+  authors: Santangelo J. S., L. S. Miles, S. T. Breitbart, D. Murray-Stoker, L. R. Rivkin, M. T. J. Johnson, and R. W. Ness
   title: Urban environments as a framework to study parallel evolution
   booktitle: Urban Evolutionary Biology
   publisher: Oxford University Press
   editors: Marta Szulkin, Jason Munshi-South, and Anne Charmantier
   year: 2020
-  pdf-url: https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-3
+  pdf-url:
   pages: 389-410
   
 - id: Murray-Stoker_et_al_2020
@@ -33,7 +55,7 @@
   data-url: https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687
 
 - id: Murray-Stoker2020
-  authors: Murray-Stoker, D.
+  authors: Murray-Stoker, D
   title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
   journal: bioRxiv
   year: 2020
