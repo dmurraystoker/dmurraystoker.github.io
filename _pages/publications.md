@@ -10,12 +10,9 @@ last_modified_at: 22 May 2020
 
 ## Peer-reviewed
 
-{% include journal-articles.html %}
+{% include publications.html %}
 
-## Book chapters
 
-{% include book-chapters.html %}
-
-## Pre-prints
+## Manuscripts
 
 {% include preprints.html %}
