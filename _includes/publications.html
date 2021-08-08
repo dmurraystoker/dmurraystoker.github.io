@@ -1,5 +1,5 @@
 <ol reversed="reversed">
-  {% for paper in site.data.journal-articles %}
+  {% for paper in site.data.publications %}
   <li>
     <p>
       {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}}. {{ paper.year }}. {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}}. <em>{{ paper.journal }}</em> {% if paper.volume %} <strong>{{ paper.volume }}</strong>: {% endif %} {{ paper.pages }}.
