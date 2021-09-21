@@ -18,8 +18,6 @@ Mutualisms between plants and microbes are critical for community development an
 
 From this project, there are three main conclusions: (1) Urbanization decreased investment in the mutualism, (2) white clover acquired N from different sources along the gradient, and (3) there were direct and indirect effects of urbanization on soil nitrogen and white clover-rhizobium interactions.
 
-A [pre-print for this project is available](https://www.biorxiv.org/content/10.1101/2021.01.24.427992v2.abstract) if you are interested in reading more (with the article forthcoming in Oikos).
-
 <br/>
 
 ## Microbiome assembly in urban environments
