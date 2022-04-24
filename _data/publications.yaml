@@ -1,17 +1,17 @@
 ---
   
-- id: Barnum_et_al_in_press
+- id: Barnum_et_al_2022
   authors: Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, D. Murray-Stoker, C. Colon-Gaud, A. T. Rugenski, T. C. Frauendorf, S. Connelly, S. S. Kilham, M. R. Whiles, K. R. Lips, and C. M. Pringle.
   title: Mechanisms underlying lack of functional compensation by insect grazers after tadpole declines in a Neotropical stream.
   journal: Limnology and Oceanography
-  year: In press
-  volume: TBD
-  pages: TBD
+  year: 2022
+  volume: 67
+  pages: S198-S210
   openaccess: false
-  pdf-url:
+  pdf-url: https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11904
   data-url:
   
-  - id: Murray-Stoker-Johnson_2021
+- id: Murray-Stoker-Johnson_2021
   authors: Murray-Stoker, D., and M. T. J. Johnson.
   title: Ecological consequences of urbanization on a legume-rhizobia mutualism.
   journal: Oikos
@@ -19,8 +19,19 @@
   volume: 130
   pages: 1750–1761
   openaccess: false
-  pdf-url: https://www.biorxiv.org/content/10.1101/2021.01.24.427992v2
+  pdf-url: https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08341
   data-url: https://zenodo.org/record/4459724#.YQx6RtNKgbk
+  
+- id: Murray-Stoker2021
+  authors: Murray-Stoker, D.
+  title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
+  journal: Peer Community Journal
+  year: 2021
+  volume: 1
+  pages: e52
+  openaccess: true
+  pdf-url: https://peercommunityjournal.org/articles/10.24072/pcjournal.52/
+  data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
 
 - id: Murray-Stoker_Murray-Stoker2020
   authors: Murray-Stoker, D., and K. M. Murray-Stoker.
@@ -54,17 +65,6 @@
   openaccess: false
   pdf-url: https://onlinelibrary.wiley.com/doi/full/10.1111/een.12822
   data-url: https://figshare.com/articles/dataset/Shifts_in_the_community_composition_of_caddisflies_Insecta_Trichoptera_in_a_subtropical_river_over_three_decades/14237687
-
-- id: Murray-Stoker2020
-  authors: Murray-Stoker, D.
-  title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
-  journal: bioRxiv
-  year: 2020
-  volume: 611939
-  pages: 1-17. version 7. Peer-reviewed and recommended by Peer Community In Ecology doi, 10.24072/pci.ecology.100052
-  openaccess: true
-  pdf-url: https://www.biorxiv.org/content/10.1101/611939v8
-  data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
 
 - id: Murray_et_al_2018
   authors: Murray, K. M., D. Stoker, C. M. Pringle, and T. N. Simon.
