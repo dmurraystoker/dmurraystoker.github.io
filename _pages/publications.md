@@ -5,13 +5,11 @@ author_profile: true
 title: "Publications"
 classes: wide
 toc: true
-last_modified_at: 22 May 2020
+last_modified_at: 24 April 2022
 ---
 
 ## Peer Reviewed
 
 {% include publications.html %}
 
-## Preprints & Manuscripts
 
-{% include preprints.html %}
