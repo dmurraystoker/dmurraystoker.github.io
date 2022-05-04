@@ -8,8 +8,6 @@ toc: true
 last_modified_at: 24 April 2022
 ---
 
-## Peer Reviewed
-
 {% include publications.html %}
 
 
