@@ -1,4 +1,26 @@
 ---
+
+- id: Murray-Stoker_et_al_In_Press
+  authors: Murray-Stoker, D., K. Murray-Stoker, F. P. Kong, and F. Amanat.
+  title: Environmental filtering and habitat (mis)matching of riverine invertebrate metacommunities.
+  journal: Journal of Bioegeography
+  year: In Press
+  volume: TBD
+  pages: Pre-print
+  openaccess: true
+  pdf-url: https://www.biorxiv.org/content/10.1101/2022.04.09.487317v2.abstract
+  data-url: https://zenodo.org/record/6800554#.YyIs7OzMIa4
+
+- id: Miles_et_al_2022
+  authors: Miles, L. S., D. Murray-Stoker, V. J. Nahn, and M. T. J. Johnson.
+  title: Effects of urbanization on specialist insect communities of milkweed are mediated by spatial and temporal variation.
+  journal: Ecosphere
+  year: 2022
+  volume: 13
+  pages: e4222
+  openaccess: true
+  pdf-url: http://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4222
+  data-url: https://zenodo.org/record/6474064#.YyIsRuzMIbk
   
 - id: Barnum_et_al_2022
   authors: Barnum, T. R., J. T. Wootton, R. J. Bixby, J. M. Drake, D. Murray-Stoker, C. Colon-Gaud, A. T. Rugenski, T. C. Frauendorf, S. Connelly, S. S. Kilham, M. R. Whiles, K. R. Lips, and C. M. Pringle.
@@ -22,7 +44,7 @@
   pdf-url: https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08341
   data-url: https://zenodo.org/record/4459724#.YQx6RtNKgbk
   
-- id: Murray-Stoker2021
+- id: Murray-Stoker_2021
   authors: Murray-Stoker, D.
   title: On the efficacy of restoration in stream networks, comments, critiques, and prospective recommendations
   journal: Peer Community Journal
@@ -33,7 +55,7 @@
   pdf-url: https://peercommunityjournal.org/articles/10.24072/pcjournal.52/
   data-url: https://figshare.com/articles/On_the_relativity_and_efficacy_of_restoration_in_stream_networks_comment/6448010
 
-- id: Murray-Stoker_Murray-Stoker2020
+- id: Murray-Stoker_Murray-Stoker_2020
   authors: Murray-Stoker, D., and K. M. Murray-Stoker.
   title: Consistent metacommunity structure despite inconsistent drivers of assembly at the continental scale.
   journal: Journal of Animal Ecology
