@@ -60,4 +60,4 @@ Understanding and predicting community responses to environmental change are ess
 **Q3** = Which functional traits are linked to environmental filtering and habitat matching?
 **Q4** = What are the environmental predictors of functional trait abundance?
 
-Our study demonstrates spatial patterns of environmental filtering and habitat matching in communities across ecoregions at the macroecological scale, with functional traits providing a critical link between disequilibrium metrics and the environment. [We published the preprint on bioRix](https://www.biorxiv.org/content/10.1101/2022.04.09.487317v2.abstract) and the article is currently in press at the Journal of Biogeography.
+Our study demonstrates spatial patterns of environmental filtering and habitat matching in communities across ecoregions at the macroecological scale, with functional traits providing a critical link between disequilibrium metrics and the environment. [We published the preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.09.487317v2.abstract) and the article is currently in press at the Journal of Biogeography.
