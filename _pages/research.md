@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 classes: wide
 toc: true
-last_modified_at: 7 October 2022
+last_modified_at: 10 January 2022
 ---
 
 # Urban Ecology & Evolution
@@ -34,7 +34,7 @@ Urbanization can drive spatial variation in soil chemistry and nutrients, which 
 
 Bacteria and fungi comprising the microbiome are important for plant community assembly, physiology, and response to stressors. As bacteria and fungi can have different functional roles relative to rhizobia, the function of the root microbiome is a multifaceted and emergent property of the ecological roles played by rhizobia, bacteria, and fungi. Alterations to microbiome structure could therefore strongly impact plant communities and associated ecosystem functions. Using a manipulative experimental, I am asking (**1**) are white clover and rhizobia locally adapted? (**2**) Does N addition mediate any effects of local adaptation? and (**3**) how does the degree of local adaptation vary with urbanization?
 
-For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (local, nonloca-rural, and nonlocal-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combination (1080 total plants). At the end of the experiment, I measured fitness estimates for both the plant and rhizobia. I am currently analyzing the data, and I hope to have the results communicated early in 2023. Apart from investigating how urbanization can affect the coevolution of species interactions, this work could also act as a guide or reference point for further investigation into feedbacks between ecology and evolution.
+For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (local, nonloca-rural, and nonlocal-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combination (1080 total plants). At the end of the experiment, I measured fitness estimates for both the plant and rhizobia. I am currently analyzing the data, and I hope to have the results communicated in the late spring or early summer of 2023. Apart from investigating how urbanization can affect the coevolution of species interactions, this work could also act as a guide or reference point for further investigation into feedbacks between ecology and evolution.
 
 <br/>
 
