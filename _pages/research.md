@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 classes: wide
 toc: true
-last_modified_at: 10 January 2022
+last_modified_at: 10 July 2023
 ---
 
 # Urban Ecology & Evolution
@@ -24,17 +24,17 @@ From this project, there were three main conclusions: (1) Urbanization decreased
 
 ![](../assets/images/clover_flower_2021.jpeg){: .align-right} 
 
-Urbanization can drive spatial variation in soil chemistry and nutrients, which can affect the assembly and composition of soil microbial communities. As plant microbiome assembly is ultimately determined by the microbes present in the local soil community, changes to soil microbial composition can affect plant microbiome assembly and function. Notwithstanding growing research into microbiomes, there is limited evidence demonstrating how microbiome assembly and diversity varies within and among natural populations of the same host. This project will begin to fill the gap by quantifying the urban-driven changes to microbiome structure. For my thesis research, I sampled white clover, rhizobia, and soil along an urbanization gradient in the Greater Toronto Area, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. I am currently processing the sequences and assigning taxonomy to amplicon sequences variants, with data analysis on the horizon in early 2023. I hope to have the results and the full story together by late summer 2023. This work will be important for understanding how urbanization affects microbiome assembly, diversity, and compositon across both plant roots and soil compartments.
+Urbanization can drive spatial variation in soil chemistry and nutrients, which can affect the assembly and composition of soil microbial communities. As plant microbiome assembly is ultimately determined by the microbes present in the local soil community, changes to soil microbial composition can affect plant microbiome assembly and function. Notwithstanding growing research into microbiomes, there is limited evidence demonstrating how microbiome assembly and diversity varies within and among natural populations of the same host. This project will begin to fill the gap by quantifying the urban-driven changes to microbiome structure. For my thesis research, I sampled white clover, rhizobia, and soil along an urbanization gradient in the Greater Toronto Area, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. I am currently processing the sequences and assigning taxonomy to amplicon sequences variants, with data analysis currently in progres. This work will be important for understanding how urbanization affects microbiome assembly, diversity, and compositon for both root and soil compartments.
 
 <br/>
 
-## Local adaptation between white clover and rhizobia in the urban mosaic
+## Mosaic of local adaptation between white clover and rhizobia along an urbanization gradient
 
 ![](../assets/images/local_adaptation_plot.jpeg){: .align-left} 
 
 Bacteria and fungi comprising the microbiome are important for plant community assembly, physiology, and response to stressors. As bacteria and fungi can have different functional roles relative to rhizobia, the function of the root microbiome is a multifaceted and emergent property of the ecological roles played by rhizobia, bacteria, and fungi. Alterations to microbiome structure could therefore strongly impact plant communities and associated ecosystem functions. Using a manipulative experimental, I am asking (**1**) are white clover and rhizobia locally adapted? (**2**) Does N addition mediate any effects of local adaptation? and (**3**) how does the degree of local adaptation vary with urbanization?
 
-For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (local, nonloca-rural, and nonlocal-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combination (1080 total plants). At the end of the experiment, I measured fitness estimates for both the plant and rhizobia. I am currently analyzing the data, and I hope to have the results communicated in the late spring or early summer of 2023. Apart from investigating how urbanization can affect the coevolution of species interactions, this work could also act as a guide or reference point for further investigation into feedbacks between ecology and evolution.
+For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (local, nonloca-rural, and nonlocal-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combination (1080 total plants). At the end of the experiment, I measured fitness estimates for both the plant and rhizobia. I am currently analyzing the data, and I hope to have the results communicated in the late summer or early fall of 2023. Apart from investigating how urbanization can affect the coevolution of species interactions, this work could also act as a guide or reference point for further investigation into feedbacks between ecology and evolution.
 
 <br/>
 
@@ -60,4 +60,4 @@ Understanding and predicting community responses to environmental change are ess
 **Q3** = Which functional traits are linked to environmental filtering and habitat matching?
 **Q4** = What are the environmental predictors of functional trait abundance?
 
-Our study demonstrates spatial patterns of environmental filtering and habitat matching in communities across ecoregions at the macroecological scale, with functional traits providing a critical link between disequilibrium metrics and the environment. [We published the preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.09.487317v2.abstract) and the article is currently in press at the Journal of Biogeography.
+Our study demonstrates spatial patterns of environmental filtering and habitat matching in communities across ecoregions at the macroecological scale, with functional traits providing a critical link between disequilibrium metrics and the environment. [We published this project in the Journal of Biogeography](http://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.14501), and I hope to explore the implications and applications of this work in the future.
