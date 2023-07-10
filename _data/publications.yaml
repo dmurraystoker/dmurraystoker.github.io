@@ -1,7 +1,17 @@
 ---
+- id: Murray-Stoker_et_al_2023
+  authors: Murray-Stoker, K. M., J. V. McHugh, A. C. Benke, K. A. Parsons, D. Murray-Stoker, A. D. Rosemond, S. J. Wenger, and D. P. Batzer.
+  title: Environmental filtering and habitat (mis)matching of riverine invertebrate metacommunities.
+  journal: Freshwater Biology
+  year: 2023
+  volume: 68
+  pages: 632-644.
+  openaccess: false
+  pdf-url: https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.14052
+  data-url: https://zenodo.org/record/7455905#.Y8F1BezMIbk
 
-- id: Murray-Stoker_et_al_In_Press
-  authors: Murray-Stoker, D., K. Murray-Stoker, F. P. Kong, and F. Amanat.
+- id: Murray-Stoker_et_al_2022
+  authors: Murray-Stoker, D., K. M. Murray-Stoker, F. P. Kong, and F. Amanat.
   title: Environmental filtering and habitat (mis)matching of riverine invertebrate metacommunities.
   journal: Journal of Bioegeography
   year: 2022
