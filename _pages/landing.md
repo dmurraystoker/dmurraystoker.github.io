@@ -28,8 +28,8 @@ feature_row:
     # btn_class: "btn--primary"
   - image_path: /assets/images/lab_car_rural_2018.jpg
     alt: "Parked outside of Burlington, ON, CA"
-    title: "Posts"
-    url: /posts/
+    title: "Teaching"
+    url: /teaching/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
 
