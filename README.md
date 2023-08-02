@@ -1,2 +1,2 @@
 # dmurraystoker.github.io
-My personal research website.
+My personal website for research and teaching.
