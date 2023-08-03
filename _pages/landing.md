@@ -26,8 +26,8 @@ feature_row:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/lab_car_rural_2018.jpg
-    alt: "Parked outside of Burlington, ON, CA"
+  - image_path: /assets/images/BIO205_lecture_hall_condensed.jpeg
+    alt: "Lecture hall on the UTM campus"
     title: "Teaching"
     url: /teaching/
     # btn_label: "Continue"
