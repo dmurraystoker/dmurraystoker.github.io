@@ -10,7 +10,7 @@ header:
 excerpt: Department of Ecology & Evolutionary Biology <br> University of Toronto
 
 intro:
-  - excerpt: 'I am currently a Ph.D. candidate under the supervision of [Marc Johnson](https://evoecolab.wordpress.com/) studying the ecology and evolution of plant-microbe interactions in urban environments. \\ I am also passionate about teaching and developing my pedagogy.'
+  - excerpt: 'I am currently a Ph.D. candidate under the supervision of [Marc Johnson](https://evoecolab.wordpress.com/) studying the ecology and evolution of plant-microbe interactions in urban environments. I am also passionate about teaching and developing my pedagogy.'
 
 feature_row:
   - image_path: /assets/images/clover_MN_building.jpg
