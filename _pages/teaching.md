@@ -63,7 +63,7 @@ Here are example course syllabi for courses I have taught or would like to teach
 
 ## Lecture Activity
 
-[Here is an activity I conducted on food webs during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205_Lecture_9_Activity_Coastal_Estuary.pdf), with an [example of a food web students put together](https://dmurraystoker.github.io/assets/docs/assets/images/estuary_food_web.jpeg) during the activity.
+[Here is an activity I conducted on food webs during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205_Lecture_9_Activity_Coastal_Estuary.pdf), with an [example of a food web students put together](https://dmurraystoker.github.io/assets/images/estuary_food_web.jpeg) during the activity.
 
 
 ## Lab Activities
