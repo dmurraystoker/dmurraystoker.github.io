@@ -8,7 +8,7 @@ toc: true
 last_modified_at: 2 August 2023
 ---
 
-![](../assets/images/BIO205_lecture_hall.jpeg){: .align-left} 
+![](../assets/images/BIO205_lecture_hall.jpeg =400x250){: .align-left} 
 
 # Teaching Philosophy
 
@@ -67,7 +67,7 @@ Here are example course syllabi for courses I have taught or would like to teach
 
 [Here is an activity I conducted during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205_Lecture_9_Activity_Coastal_Estuary.pdf). A picture of the students' completed work is provided below.
 
-![](../assets/images/estuary_food_web.jpeg){: .align-right} 
+![](../assets/images/estuary_food_web.jpeg =250x250){: .align-right} 
 
 ## Lab Activities
 
