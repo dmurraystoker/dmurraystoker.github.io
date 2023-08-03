@@ -1,0 +1,311 @@
+---
+title: "BIO205 Summer 2023"
+subtitle: "Data Analysis: Script 2"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 4
+    fig_caption: yes
+    latex_engine: xelatex
+always_allow_html: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+options(knitr.graphics.error = FALSE)
+knitr::opts_chunk$set(results = "hold", fig.pos = "H", fig.align = "center", out.width = "92.5%")
+```
+
+```{r Load Packages, include = FALSE}
+## Load the tidyverse
+library(tidyverse)
+
+## Packages for analysis
+library(vegan)
+
+## Packages for figures
+library(easystats)
+library(ggpubr)
+
+# Packages for colour palettes for figures
+library(PrettyCols)
+library(viridis)
+library(wesanderson)
+library(scales)
+```
+
+
+
+
+
+# Script 2 = Continuous Response and Continuous Predictor (Regression)
+
+You will use this script if you want to compare a continuous response against a continuous predictor, such as a soil chemistry parameter. Your response needs to be a continuous biotic variable.
+
+
+
+
+
+# Workflow
+
+Here is the general workflow for the script:
+
+1. **Prepare the data**. You will format the data to calculate diversity and abundance metrics and arrange the data so it is easier to plot. All you have to do is run the code provided below.
+
+2. **Create your figure**. You will use the template code to create your figures. For each figure, you will add the name of your response and predictor variables and then run the code to generate the figure.
+
+3. **Export the figure**. You will then export your figure in PDF format so it is saved locally on your laptop and lab report.
+
+4. **Repeat steps 2 and 3 for as many figures you need** to prepare so you can analyze the data for your QHP and lab report.
+
+5. **Calculate summary statistics**. Use the code at the end of the script to calculate the slopes for your data analysis and to aid interpretation of the results.
+
+6. **Customize the colours**. This is an optional step, but once you are done creating your figures and getting the statistics you need to report in the text of the results, you can create different colour palettes to use in your figures. They can be as visually appealing or abhorrent as you like!.
+
+
+
+
+
+## Step 1: Prepare the Data
+
+```{r Load Data, echo = TRUE}
+## Load the data
+# Plant data
+raw.plant.data <- read_csv(
+  "data/B205_S2023-Combined_Cleaned_Data.csv",
+  col_types = c("fffiffn"),
+  show_col_types = FALSE
+)
+# Soil data
+raw.soil.data <- read_csv(
+  "data/BIO205_S2023-Soil_Data.csv",
+  col_types = c("fffnnnnnni"),
+  show_col_types = FALSE
+)
+```
+
+```{r Pivot Data from Long to Wide, echo = TRUE}
+## Pivot plant data from long to wide format (helps with analyses and figures)
+raw.plant.data.wide <- raw.plant.data %>%
+  group_by(Group, Practical_Section, Habitat, Scientific_Name) %>%
+  summarise(
+    Summed_Abundance = sum(Abundance),
+    .groups = "keep"
+  ) %>%
+  ungroup() %>%
+  pivot_wider(
+    names_from = Scientific_Name,
+    values_from = Summed_Abundance,
+    values_fill = 0
+  )
+# Now we have a column for each plant species, with abundances in each row
+```
+
+```{r Plant Diversity & Abundance Metrics, echo = TRUE}
+## Calculate diversity metrics
+# Species richness
+plant.species.richness.data <- tibble(
+  specnumber(
+    x = raw.plant.data.wide %>% select(Phragmites_australis:Circaea_alpina)
+  )
+) %>%
+  rename(Species_Richness = 1) %>%
+  add_column(Group = raw.plant.data.wide$Group) %>%
+  add_column(Habitat = raw.plant.data.wide$Habitat)
+
+# Simpson's index (evenness)
+plant.simpson.index.data <- tibble(
+  diversity(
+    x = raw.plant.data.wide %>% select(Phragmites_australis:Circaea_alpina),
+    index = "invsimpson"
+  )
+) %>%
+  rename(Inverse_Simpson = 1) %>%
+  add_column(Group = raw.plant.data.wide$Group) %>%
+  add_column(Habitat = raw.plant.data.wide$Habitat)
+
+# Abundance (total community abundance)
+plant.community.abundance.data <- raw.plant.data %>%
+  group_by(Group, Practical_Section, Habitat) %>%
+  summarise(
+    Total_Community_Abundance = sum(Abundance),
+    .groups = "keep"
+    ) %>%
+  ungroup()
+
+## Combine plant community diversity and abundance data
+plant.diversity.abundance.data <- raw.plant.data.wide %>%
+  select(Group, Habitat) %>%
+  full_join(plant.species.richness.data) %>%
+  full_join(plant.simpson.index.data) %>%
+  full_join(plant.community.abundance.data) %>%
+  select(
+    Group, Practical_Section, Habitat, Species_Richness:Inverse_Simpson,
+    Total_Community_Abundance
+  )
+```
+
+```{r Combine Plant Diversity and Abundance Data with Soil Chemistry, echo = TRUE}
+## Merge plant diversity and abundance data with soil chemistry
+combined.BIO205.data <- plant.diversity.abundance.data %>%
+  full_join(raw.soil.data) %>%
+  drop_na() %>%
+  filter( 
+    Habitat == "Forest" | # Only include the habitats you need
+    Habitat == "Grassland" | # Only include the habitats you need
+    Habitat == "Wetland" | # Only include the habitats you need
+    Habitat == "Disturbed" # Only include the habitats you need
+  ) %>%
+  group_by(Group, Habitat) %>%
+  mutate(
+    Total_Nitrogen = sum(Nitrite + Nitrate) # Creating new variable Total_Nitrogen
+  ) %>%
+  ungroup()
+
+## Re-order the habitats from least to most disturbed (human disturbance ranking)
+combined.BIO205.data$Habitat <- factor(
+  combined.BIO205.data$Habitat,
+  levels = c("Forest", "Grassland", "Wetland", "Disturbed") # Only include the habitats you need
+)
+```
+
+
+
+
+
+## Step 2: Create the Figures
+
+You will modify this code to create the figures you need for your lab report. You will need to change the name of the response and predictor variables as needed, and make sure to create a new figure object for each figure you create. For example, you might need to create one figure with species richness as the response and another figure with species evenness as the response.
+
+In this analysis, you are expecting the predictor variable to have an effect on the response (linear regression).
+
+```{r}
+# Hint: you can run this line of code to make sure you get the right name of the response variable
+names(combined.BIO205.data)
+```
+
+
+```{r}
+## Create the figure
+lab.report.figure.1 <- ggscatter(
+  data = combined.BIO205.data,
+  x = "X", # Change this to your predictor variable
+  y = "Y", # Change this to your response variable
+  shape = 19,
+  size = 2,
+  xlab = "X", # Change this to your predictor variable name
+  ylab = "Y", # Change this to your response variable name
+  color = "Habitat",
+  fill = "Habitat",
+  palette = prettycols("Bold"), # Change this to a custom palette (optional)
+  ggtheme = theme_pubr(),
+  add = "reg.line", # Adds a regression line for each habitat
+  conf.int = TRUE # Adds a 95% confidence interval around each line
+) +
+  font("xlab", size = 18, color = "gray0") +
+  font("ylab", size = 18, color = "gray0") +
+  font("xy.text", size = 14, color = "gray20")
+
+# Run this line to view the figure
+lab.report.figure.1
+```
+
+
+
+
+
+## Step 3: Export the Figures
+
+```{r}
+## Save the figure
+ggsave(
+	"BIO205-figure_1.pdf", # You can change the name of the figure
+  plot = lab.report.figure.1, # Make sure you name the figure you want to export
+  device = "pdf",
+  path = "figures/", # The figure will be exported to this folder
+  width = 8,
+  height = 4,
+  units = "in"
+)
+```
+
+
+
+
+
+## Step 4: Repeat Steps 2-3 As Needed
+
+Copy, paste, and edit the code from steps 2 and 3 as needed until you have made all the figures you need to with this script file. You can copy and paste the code chunks into this space or add to the code chunks in steps 2 and 3 above.
+
+
+
+
+
+## Step 5: Calculate Summary Statistics
+
+For this analysis, you are comparing the slopes between the response and predictor across the habitats. To aid in this task, you will calculate the slope estimates for each relationship. You will follow the same copy, paste, and edit procedure as you did for the figures to get slope estimates for the relationship, with a separate slope estimate for each habitat.
+
+```{r}
+# Fit the linear regression, where you change the response and predictor as needed
+linear.regression.1 <- lm(
+  Y ~ Habitat * X,
+  data = combined.BIO205.data
+)
+
+# Get the slope estimates
+slope.estimates.1 <- estimate_slopes(
+  linear.regression.1,
+  at = "Habitat"
+)
+
+## View the slope estimates
+slope.estimates.1
+# Provides the slope (Coefficient) between the response and predictor for each habitat
+```
+
+
+
+
+
+## Step 6: Customize the Colours (Optional)
+
+Once you complete steps 1-5, you can try making different colour palettes for your figures. Below are some examples to set different colour palettes.
+
+When you have a palette you like, you can add it to the figures in the palette argument in the function.
+
+
+```{r Set Custom Colour Palettes}
+## viridis----------------------------------------------------------------#
+# Set the colour palette
+viridis.palette <- viridis(n = 4, option = "D") # change n to the number of habitats
+# You can try other types than viridis, such as plasma (option = "C") or mako (option = "G")
+
+# View the colour palette
+scales::show_col(viridis.palette)
+
+
+## PrettyCols-------------------------------------------------------------#
+# Set the colour palette
+prettycols.palette <- prettycols(
+  name = "Lively", # Change the name to the palette you like
+  n = 4, # change n to the number of habitats
+  type = "discrete"
+)
+# The qualitative palettes are preferred
+
+# View the colour palette
+scales::show_col(prettycols.palette)
+
+
+## wesanderson------------------------------------------------------------#
+# Set the colour palette
+wesanderson.palette <- wes_palette(
+  name = "GrandBudapest2", # Change the name to the palette/movie you like
+  n = 4, # change n to the number of habitats
+  type = "discrete"
+)
+
+# View the colour palette
+scales::show_col(wesanderson.palette)
+```
+
