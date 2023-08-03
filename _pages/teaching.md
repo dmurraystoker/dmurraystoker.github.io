@@ -8,7 +8,7 @@ toc: true
 last_modified_at: 2 August 2023
 ---
 
-![](../assets/images/BIO205_lecture_hall.jpeg)
+![](../assets/images/BIO205_lecture_hall.jpeg){: .align-left} 
 
 # Teaching Philosophy
 
@@ -65,7 +65,7 @@ Biological Data Analysis Draft Syllabus
 
 Here is an activity I conducted during a lecture in the Ecology class. A picture of the students' completed work is provided below.
 
-![](../assets/images/estuary_food_web.jpeg){: .align-left} 
+![](../assets/images/estuary_food_web.jpeg){: .align-right} 
 
 During the Ecology course-based research, students analyzed soil for macronutrients, pH, salinity, and organic matter content. Here is the instruction worksheet students used to complete the activity.
 
