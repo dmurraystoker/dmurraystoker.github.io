@@ -63,15 +63,15 @@ Here are example course syllabi for courses I have taught or would like to teach
 
 ## Lecture Activity
 
-[Here is an activity I conducted during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205_Lecture_9_Activity_Coastal_Estuary.pdf). A picture of the students' completed work is provided below.
+[Here is an activity I conducted on food webs during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205_Lecture_9_Activity_Coastal_Estuary.pdf), with an [example of a food web students put together](https://dmurraystoker.github.io/assets/docs/assets/images/estuary_food_web.jpeg) during the activity.
 
-![](../assets/images/estuary_food_web.jpeg){: .align-right} 
 
 ## Lab Activities
 
 During the Ecology course-based research, students analyzed soil for macronutrients, pH, salinity, and organic matter content. [Here is the instruction worksheet students used to complete the soil analysis activity](https://dmurraystoker.github.io/assets/docs/B205_S2023_PRA2_Soil_Analysis_Instructions.pdf).
 
 Students also analyzed data and created figures using R for their lab reports. [Here is the worksheet providing the instructions for the activity](https://dmurraystoker.github.io/assets/docs/B205_S2023_PRA5_Data_Analysis_Instructions.pdf). I have also provided an [example of the R code students used and modified to complete their analyses and create their figures](https://dmurraystoker.github.io/assets/docs/BIO205_Script_2.Rmd).
+
 
 ## Term Test & Final Exams
 
