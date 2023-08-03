@@ -8,7 +8,7 @@ toc: true
 last_modified_at: 2 August 2023
 ---
 
-![](../assets/images/BIO205_lecture_hall.jpeg){: .align-center} 
+![](../assets/images/BIO205_lecture_hall.jpeg)
 
 # Teaching Philosophy
 
