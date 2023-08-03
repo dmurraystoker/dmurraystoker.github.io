@@ -5,7 +5,7 @@
 # Theme Settings
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -29,7 +29,7 @@ author:
   bio              : "Ph.D. Candidate, Department of Ecology & Evolutionary Biology, University of Toronto"
   location         : "Toronto, Canada"
   email            : dstoker92@gmail.com
-  cv               : /assets/docs/dmurraystoker_CV-2_Aug_2023.pdf
+  cv               : /assets/docs/dmurraystoker_CV_Aug_2023.pdf
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
