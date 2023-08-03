@@ -42,37 +42,43 @@ I have had the privilege of mentoring three exceptional young women on different
 
 Moving forward, I want to build connections with local K12 schools. I have skills and expertise that would complement K12 science teachers, expand the scope of their science curriculum, and get more students directly involved in science. I want to design classroom activities and research projects that align with state and national science teaching standards. I also will design the research projects to provide opportunities for undergraduate and graduate students to be involved in data collection, analysis, and publishing the work. I think this initiative would provide additional mentorship opportunities for me, provide research experience for K12, undergraduate, and graduate students, and build an expanding mutualistic network of learning.
 
-(You can download a PDF of my teaching philosophy here)
+([You can download a PDF of my teaching philosophy here](https://dmurraystoker.github.io/assets/docs/dmurraystoker-Teaching_Philosophy.pdf))
 
 
 # Teaching Dossier
 
-Here is my teaching dossier, documenting my professional development, teaching and mentor experience, and evaluation of teaching effectiveness.
+[Here is my teaching dossier](https://dmurraystoker.github.io/assets/docs/dmurraystoker-Teaching_Dossier.pdf), documenting my professional development, teaching and mentor experience, and evaluation of teaching effectiveness.
 
 
 # Example Course Syllabi
 
 Here are example course syllabi for courses I have taught or would like to teach in the future.
 
-Ecology Syllabus
+[Ecology Syllabus](https://dmurraystoker.github.io/assets/docs/BIO205_Syllabus-Ecology-Summer_2023.pdf)
 
-Community Ecology Draft Syllabus
+[Community Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/docs/BIO300_Syllabus-Community_Ecology.pdf)
 
-Biological Data Analysis Draft Syllabus
+[Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/docs/BIO380_Syllabus-Biological_Data_Analysis.pdf)
 
 
 # Example Teaching Resources
 
-Here is an activity I conducted during a lecture in the Ecology class. A picture of the students' completed work is provided below.
+## Lecture Activity
+
+[Here is an activity I conducted during a lecture in the Ecology class](https://dmurraystoker.github.io/assets/docs/BIO205-Lecture_9_Activity-Coastal_Estuary.pdf). A picture of the students' completed work is provided below.
 
 ![](../assets/images/estuary_food_web.jpeg){: .align-right} 
 
-During the Ecology course-based research, students analyzed soil for macronutrients, pH, salinity, and organic matter content. Here is the instruction worksheet students used to complete the activity.
+## Lab Activities
 
-Students analyzed data and created figures using R for their lab reports. Here is the worksheet providing the instructions for the activity. I have also provided an example of the template R code students used and modified to complete their analyses and create their figures.
+During the Ecology course-based research, students analyzed soil for macronutrients, pH, salinity, and organic matter content. [Here is the instruction worksheet students used to complete the soil analysis activity](https://dmurraystoker.github.io/assets/docs/B205_S2023_PRA2_Soil_Analysis_Instructions.pdf).
 
-I like to use concept maps, case study evaluations and short answer questions, and reflections in my tests and exams. Here is an example final exam for the Ecology course.
+Students also analyzed data and created figures using R for their lab reports. [Here is the worksheet providing the instructions for the activity](https://dmurraystoker.github.io/assets/docs/B205_S2023_PRA5_Data_Analysis_Instructions.pdf). I have also provided an example of the R code students used and modified to complete their analyses and create their figures.
 
-I have also provided the evaluation and feedback guide students used for their self-evaluations of the final exam.
+## Term Test & Final Exams
+
+I like to use concept maps, case study evaluations and short answer questions, and reflections in my tests and exams. [Here is an example final exam for the Ecology course](https://dmurraystoker.github.io/assets/docs/BIO205-Final_Exam.pdf).
+
+I also provide the [evaluation and feedback guide](https://dmurraystoker.github.io/assets/docs/BIO205-Final_Exam-Evaluation_Guide.pdf) students used for their self-evaluations of the final exam.
 
 
