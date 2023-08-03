@@ -14,9 +14,15 @@ intro:
 
 feature_row:
   - image_path: /assets/images/clover_MN_building.jpg
-    alt: "White clover in Mississauga, ON, CA"
+    alt: "White clover in Mississauga, ON, CAN"
     title: "Research"
     url: /research/
+    # btn_label: "Continue"
+    # btn_class: "btn--primary"
+  - image_path: /assets/images/BIO205_lecture_hall_condensed.jpeg
+    alt: "Lecture hall on the UTM campus, Mississauga, ON, CAN"
+    title: "Teaching"
+    url: /teaching/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
   - image_path: /assets/images/coweeta_woods_fall_colour.jpg
@@ -24,12 +30,6 @@ feature_row:
     alt: "Bearpen Creek, Coweeta LTER, Otto, NC, USA"
     title: "Publications"
     url: /publications/
-    # btn_label: "Continue"
-    # btn_class: "btn--primary"
-  - image_path: /assets/images/BIO205_lecture_hall_condensed.jpeg
-    alt: "Lecture hall on the UTM campus"
-    title: "Teaching"
-    url: /teaching/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
 
