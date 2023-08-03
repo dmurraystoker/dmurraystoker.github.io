@@ -72,8 +72,8 @@ Students also analyzed data and created figures using R for their lab reports. [
 
 ## Term Test & Final Exams
 
-I like to use concept maps, case study evaluations and short answer questions, and reflections in my tests and exams. [Here is an example final exam for the Ecology course](https://dmurraystoker.github.io/assets/docs/BIO205_Final_Exam.pdf).
+I like to use concept maps, case study evaluations and short answer questions, and reflections in my tests and exams. [Here is an example final exam for the Ecology course](https://dmurraystoker.github.io/assets/teaching_materials/BIO205_Final_Exam.pdf).
 
-I also provide the [evaluation and feedback guide](https://dmurraystoker.github.io/assets/docs/BIO205_Final_Exam_Evaluation_Guide.pdf) students used for their self-evaluations of the final exam.
+I also provide the [evaluation and feedback guide](https://dmurraystoker.github.io/assets/teaching_materials/BIO205_Final_Exam_Evaluation_Guide.pdf) students used for their self-evaluations of the final exam.
 
 
