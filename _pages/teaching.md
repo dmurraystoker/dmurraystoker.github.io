@@ -30,7 +30,7 @@ I also engage in my own reflective practices. I reflect on each lecture, lab, an
 
 **HOLISTIC ASSESSMENT AND UNGRADING**
 
-When I evaluate student learning, I follow the principles of ungrading. I believe the most authentic and valuable assessment to involve self-evaluation by the students. I want evaluation to be more of a conversation between teacher and students. Because learning is a process, I do not believe it can be reduced to just a letter grade or numeric value. Ungrading allows for a holistic evaluation of learning.
+When I evaluate student learning, I follow the principles of ungrading. I believe the most authentic and valuable assessment involves self-evaluation by the students. I want evaluation to be more of a conversation between teacher and students. Because learning is a process, I do not believe it can be reduced to just a letter grade or numeric value. Ungrading allows for a holistic evaluation of learning.
 
 **MENTORING**
 
