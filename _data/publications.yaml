@@ -5,10 +5,11 @@
   journal: bioRxiv
   year: 2023
   volume:
-  pages: 10.1101/2023.08.16.553632
+  pages: preprint
   openaccess: true
   pdf-url: https://www.biorxiv.org/content/10.1101/2023.08.16.553632v1
   data-url: https://doi.org/10.5281/zenodo.8253951
+  
 - id: Murray-Stoker_et_al_2023
   authors: Murray-Stoker, K. M., J. V. McHugh, A. C. Benke, K. A. Parsons, D. Murray-Stoker, A. D. Rosemond, S. J. Wenger, and D. P. Batzer.
   title: Long-term comparison of invertebrate communities in a blackwater river reveals taxon-specific biomass change.
