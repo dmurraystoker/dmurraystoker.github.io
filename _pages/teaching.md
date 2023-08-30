@@ -38,10 +38,6 @@ I am responsible for teaching, training, and mentoring the next generation of sc
 
 I have had the privilege of mentoring three exceptional young scientists on different projects. Elana worked on a project testing for feedbacks between ecology and evolution in species interactions, where she took the experiment through the entire scientific process: conceptualization, experimental design, conducting the experiment, analyzing data, and presenting the results in a poster presentation. I also mentored Fan Peng and Fathima on a macroecological study in river and stream ecosystems, where both were essential to re-envisioning the analytical approach to the study and interpreting the results.
 
-**EXPANDING THE MUTUALISTIC NETWORK OF LEARNING**
-
-Moving forward, I want to build connections with local K12 schools. I have skills and expertise that would complement the knowledge and expertise of K12 science teachers and get more students directly involved in science. With input from educators about what would most benefit their students and curriculum, I will design classroom activities and research projects that align with science teaching standards while expanding what science instruction can be. I also will design the research projects to provide opportunities for K12, undergraduate, and graduate students to be involved in data collection, analysis, and publishing the work. I think this initiative would build lasting connections in an expanding mutualistic network of learning.
-
 ([You can download a PDF of my teaching philosophy here](https://dmurraystoker.github.io/assets/teaching_dossier/D_MurrayStoker_Teaching_Philosophy.pdf))
 
 
