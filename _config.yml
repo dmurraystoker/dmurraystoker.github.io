@@ -31,6 +31,9 @@ author:
   email            : dstoker92@gmail.com
   cv               : /assets/docs/dmurraystoker_CV_Aug_2023.pdf
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dmurraystoker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dmurraystoker"
@@ -42,6 +45,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dmurraystoker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dmurraystoker"
