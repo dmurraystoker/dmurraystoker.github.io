@@ -78,6 +78,8 @@ During the Ecology course-based research, students analyzed soil for macronutrie
 
 Students also analyzed data and created figures using R for their lab reports. [Here is the worksheet providing the instructions for the activity](https://dmurraystoker.github.io/assets/teaching_materials/BIO205_Data_Analysis_Lab.pdf). I have also provided an [example of the R code students used and modified to complete their analyses and create their figures](https://dmurraystoker.github.io/assets/teaching_materials/BIO205_Script_2.Rmd).
 
+To give extra guidance and practice for students with scientific writing, [I developed writing activities](https://dmurraystoker.github.io/assets/teaching_materials/BIO205_Introduction_Writing_Activities.pdf) for students to complete as a group, with a separate individual assignment to help them start working on their lab reports.
+
 
 ## Term Test & Final Exams
 
