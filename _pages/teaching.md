@@ -41,7 +41,7 @@ I also engage in my own reflective practices. I reflect on each lecture, lab, an
 ([You can download a PDF of my teaching philosophy here](https://dmurraystoker.github.io/assets/teaching_dossier/D_MurrayStoker_Teaching_Philosophy.pdf))
 
 
-
+![](../assets/images/teaching_BIO360.jpg){: .align-left} 
 
 
 # Mentoring
@@ -51,7 +51,7 @@ I am responsible for teaching, training, and mentoring the next generation of sc
 I have had the privilege of mentoring three exceptional young scientists on different projects. Elana Maria tested for feedbacks between ecology and evolution in species interactions, where she took the experiment through the entire scientific process and presented the results in a poster presentation. I also mentored Fan Peng Kong and Fathima Amanat on a study in river and stream ecosystems, where both were essential to re-envisioning the analytical approach and interpreting the results. They were also co-authors on the published paper.
 
 
-
+![](../assets/images/youth_biodiversity_workshop.JPG){: .align-left} 
 
 
 # Teaching Dossier
