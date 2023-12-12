@@ -56,7 +56,7 @@ I have had the privilege of mentoring three exceptional young scientists on diff
 <br/>
 
 ![](../assets/images/youth_biodiversity_workshop.JPG){: .align-left} 
-*Discussing urban biodiversity and how to get into science with local high school students in Toronto for the Youth for Biodiversity Workshop (Nov 2023).*
+*Discussing urban biodiversity and how to get into science with local high school students in Toronto for the Youth for Biodiversity Workshop (Nov 2023). I am with my friends and lab mates Nehal Naik (my right) and Ella Martin (my left).*
 
 <br/>
 
