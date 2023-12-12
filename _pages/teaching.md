@@ -75,6 +75,8 @@ Here are example course syllabi for courses I have taught or would like to teach
 
 [Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO380_Syllabus_Biological_Data_Analysis.pdf)
 
+[Plant Ecology & Field Botany Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO150_Syllabus-Plant_Ecology.pdf)
+
 
 # Example Teaching Resources
 
