@@ -43,6 +43,7 @@ I also engage in my own reflective practices. I reflect on each lecture, lab, an
 <br/>
 
 ![](../assets/images/teaching_BIO360.jpg){: .align-left} 
+*Working with students in biometrics as they decide which statistical test is most appropriate for the data and study design. Here, we are walking through a one-way ANOVA example (Fall 2023).*
 
 <br/>
 
@@ -55,6 +56,7 @@ I have had the privilege of mentoring three exceptional young scientists on diff
 <br/>
 
 ![](../assets/images/youth_biodiversity_workshop.JPG){: .align-left} 
+*Discussing urban biodiversity and how to get into science with local high school students in Toronto for the Youth for Biodiversity Workshop (Nov 2023).*
 
 <br/>
 
