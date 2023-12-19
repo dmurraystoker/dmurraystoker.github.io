@@ -5,7 +5,7 @@ author_profile: true
 title: "Teaching"
 classes: wide
 toc: true
-last_modified_at: 12 December 2023
+last_modified_at: 18 December 2023
 ---
 
 # Teaching Philosophy
@@ -14,27 +14,27 @@ last_modified_at: 12 December 2023
 
 **I make every effort as an instructor to construct a supportive and accessible learning environment.** I provide a space for students to express their curiosity and uncertainty without anxiety or judgement, which is essential to have a sense of belonging and community in STEM fields. The process of learning can bring about discomfort, but I want places of learning – lecture hall, classroom, laboratory, online environment – to harness this discomfort and channel it towards learning. I have high and challenging expectations for my students, and **it is my responsibility to provide a learning environment where every student can grow and learn.**
 
-*“I’ve never been in such an amazing learning environment. I really appreciated how difficult concepts were went over in detail until the majority of the class understood. Regarding the environment of the class, the class was so welcoming and provided students with a safe place to ask questions.”* – Undergraduate Ecology Student (Summer 2023)
+*“I’ve never been in such an amazing learning environment. I really appreciated how difficult concepts were went over in detail until the majority of the class understood. Regarding the environment of the class, the class was so welcoming and provided students with a safe place to ask questions.”*
 
-*“I always felt supported. From the first day, I could tell how much the instructor deeply cared for his students.”* – Undergraduate Ecology Student (Summer 2023)
+*“I always felt supported. From the first day, I could tell how much the instructor deeply cared for his students.”*
 
 **Engaging learning experiences are essential for the learning process to be lasting and impactful.** I design lectures to be active and engaging, with questions during the lecture using Mentimeter and additional activities that work through problems and case studies. If students are still struggling with a concept, I will revisit a topic so that they feel comfortable with their learning. I also gather frequent feedback from students by using check-in and check-out questions to monitor student learning. Students are also able to submit questions anonymously at any point during lectures, so every student gets the support they need.
 
-*“David ensured we were always engaged in the material and made the most of lecture time by providing a medium to ask questions, reviewing concepts we collectively struggled with, and used case studies and class activities to keep us engaged and allow us to apply our knowledge and share our ideas with each other.”* – Undergraduate Ecology Student (Summer 2023)
+*“David ensured we were always engaged in the material and made the most of lecture time by providing a medium to ask questions, reviewing concepts we collectively struggled with, and used case studies and class activities to keep us engaged and allow us to apply our knowledge and share our ideas with each other.”*
 
-*“The interactive component really helped to enhance our learning and I think I would have learnt better this way than just standard lectures.”* – Undergraduate Ecology Student (Summer 2023)
+*“The interactive component really helped to enhance our learning and I think I would have learnt better this way than just standard lectures.”*
 
 **Reflective practices are essential components of my pedagogy.** I use frequent reflections as a way to monitor student learning. I want to know what students learned, how they learned it, and what confusions remain. I also want students to ‘think about thinking’ to understand their learning process: what works, what does not work, how to make the learning process more effective, and time management. Documenting the learning process allows students to become more effective learners, and these skills are transferable to any course, job, or profession.
 
-*“The instructor wanted to learn from the students to find the best way to help the students learn.”* – Undergraduate Ecology Student (Summer 2023)
+*“The instructor wanted to learn from the students to find the best way to help the students learn.”*
 
-*“You could really tell that they cared about the success of the students and really went above and beyond to make adjustments when needed to better help the students. The instructor not only cares about this subject, but also cares about the success of the students taking the course and what they can gain from the subject.”* – Undergraduate Ecology Student (Summer 2023)
+*“You could really tell that they cared about the success of the students and really went above and beyond to make adjustments when needed to better help the students. The instructor not only cares about this subject, but also cares about the success of the students taking the course and what they can gain from the subject.”*
 
 **Learning can be best assessed by giving students multiple means to express what they know.** I use low-stakes formative assignments, such as reflections, group worksheets, or lecture activities, to see what students are learning and if there are any gaps or misconceptions. Summative assignments, such as term tests, exams, lab reports, concept maps, and course-based research projects, allow students to show what they have learned and what skills they have developed.
 
 **Learning is a process, so I contend that it is too complex to be reduced to a simple number or grade.** I evaluate student learning by following the principles of ungrading. I aim for evaluation to be more of a discussion between teacher and students. I evaluate student work and provide feedback to students, but I also bring students into the conversation. I have students reflect on what they did, why they did it, and how they approached each question or assignment. Mistakes are not only accepted but expected, and I allow students to earn back credit as they document their thought process and continue the learning process. **I do not want learning to stop when an assignment is submitted, because I want learning to be a continuous process.**
 
-*“David ensured that we were truly learning all of the content, as opposed to passively listening and memorizing facts. He gave us many opportunities to practice applying the content to different scenarios through classroom activities and weekly reflections. In the reflections, David clarified any information that students described incorrectly. The lectures were fascinating, and the use of Mentimeter as a tool to gauge our comfort level with the content, as well as a channel for asking questions, was incredibly helpful. There are not many professors who would go to the lengths that David did to ensure that everyone was truly grasping the content and understanding the importance of studying ecology.”* – Undergraduate Ecology Student (Summer 2023)
+*“David ensured that we were truly learning all of the content, as opposed to passively listening and memorizing facts. He gave us many opportunities to practice applying the content to different scenarios through classroom activities and weekly reflections. In the reflections, David clarified any information that students described incorrectly. The lectures were fascinating, and the use of Mentimeter as a tool to gauge our comfort level with the content, as well as a channel for asking questions, was incredibly helpful. There are not many professors who would go to the lengths that David did to ensure that everyone was truly grasping the content and understanding the importance of studying ecology.”*
 
 I also engage in my own reflective practices. I reflect on each lecture, lab, and assignment. I ask myself: What worked well? What could be improved? What was most effective? What did I find challenging? **I am constantly trying to find ways to adapt my pedagogy to better meet the needs and intersectional identities of students and be a more inclusive, supportive, and effective teacher.**
 
