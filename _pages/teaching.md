@@ -5,7 +5,7 @@ author_profile: true
 title: "Teaching"
 classes: wide
 toc: true
-last_modified_at: 18 December 2023
+last_modified_at: 20 December 2023
 ---
 
 # Teaching Philosophy
@@ -76,6 +76,12 @@ Here are example course syllabi for courses I have taught or would like to teach
 [Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO380_Syllabus_Biological_Data_Analysis.pdf)
 
 [Plant Ecology & Field Botany Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO150_Syllabus-Plant_Ecology.pdf)
+
+[Introductory Biology (Non-Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO110_Syllabus_Introductory_Biology.pdf)
+
+[Principles of Biology (Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO120_Syllabus_Principles_Biology.pdf)
+
+[Human Anatomy and Physiology](https://dmurraystoker.github.io/assets/course_syllabi/BIO130_Syllabus_Human_Anatomy_Physiology.pdf)
 
 
 # Example Teaching Resources
