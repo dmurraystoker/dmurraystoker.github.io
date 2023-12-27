@@ -20,11 +20,11 @@ From this project, there were three main conclusions: (1) Urbanization decreased
 
 <br/>
 
-## Urbanization and the assembly and diversity of the microbiome of a model legume
+## Diversity and assembly of the microbiome of a leguminous plant along an urbanization gradient
 
 ![](../assets/images/clover_flower_2021.jpeg){: .align-right} 
 
-Urbanization can drive spatial variation in soil chemistry and nutrients, which can affect the assembly and composition of soil microbial communities. As plant microbiome assembly is ultimately determined by the microbes present in the local soil community, changes to soil microbial composition can affect plant microbiome assembly and function. Notwithstanding growing research into microbiomes, there is limited evidence demonstrating how microbiome assembly and diversity varies within and among natural populations of the same host. This project will begin to fill the gap by quantifying the urban-driven changes to microbiome structure. For my thesis research, I sampled white clover, rhizobia, and soil along an urbanization gradient in the Greater Toronto Area, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. I am currently processing the sequences and assigning taxonomy to amplicon sequences variants, with data analysis currently in progres. This work will be important for understanding how urbanization affects microbiome assembly, diversity, and compositon for both root and soil compartments.
+Urbanization can drive spatial variation in soil chemistry and nutrients, which can affect the assembly and composition of soil microbial communities. As plant microbiome assembly is ultimately determined by the microbes present in the local soil community, changes to soil microbial composition can affect plant microbiome assembly and function. Notwithstanding growing research into microbiomes, there is limited evidence demonstrating how microbiome assembly and diversity varies within and among natural populations of the same host. This project will begin to fill the gap by quantifying the urban-driven changes to microbiome structure. For my thesis research, I sampled white clover, rhizobia, and soil along an urbanization gradient in the Greater Toronto Area, ON, Canada to (1) evaluate how microbiome composition varies among soil and root compartments and (2) identify the underlying drivers of microbiome assembly and composition. I have completed the bioinformatic pipeline and data analyses, and will be presenting the results in a preprint shortly. Stay tuned!
 
 <br/>
 
