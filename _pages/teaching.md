@@ -81,8 +81,6 @@ Here are example course syllabi for courses I have taught or would like to teach
 
 [Principles of Biology (Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO120_Syllabus_Principles_Biology.pdf)
 
-[Human Anatomy and Physiology](https://dmurraystoker.github.io/assets/course_syllabi/BIO130_Syllabus_Human_Anatomy_Physiology.pdf)
-
 
 # Example Teaching Resources
 
