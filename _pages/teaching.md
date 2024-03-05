@@ -5,7 +5,7 @@ author_profile: true
 title: "Teaching"
 classes: wide
 toc: true
-last_modified_at: 20 December 2023
+last_modified_at: 5 March 2024
 ---
 
 # Teaching Philosophy
@@ -80,9 +80,9 @@ Here are draft syllabi for courses I would like to teach.
 
 [Principles of Biology (Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO120_Syllabus_Principles_Biology.pdf)
 
-[Community Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO300_Syllabus_Community_Ecology.pdf)
+[Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO200_Syllabus_Biological_Data_Analysis.pdf)
 
-[Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO380_Syllabus_Biological_Data_Analysis.pdf)
+[Community Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO300_Syllabus_Community_Ecology.pdf)
 
 [Plant Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO150_Syllabus-Plant_Ecology.pdf)
 
