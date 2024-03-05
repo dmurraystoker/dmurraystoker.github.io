@@ -65,21 +65,26 @@ I have had the privilege of mentoring three exceptional young scientists on diff
 [Here is my teaching dossier](https://dmurraystoker.github.io/assets/teaching_dossier/D_MurrayStoker_Teaching_Dossier.pdf), documenting my professional development, teaching and mentoring experience, and evaluation of teaching effectiveness.
 
 
-# Example Course Syllabi
+# Course Syllabi
 
-Here are example course syllabi for courses I have taught or would like to teach in the future.
+## Example Syllabus
+
+Here is example course syllabi for the ecology course for which I was the course instructor.
 
 [Ecology Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO205_Syllabus_Ecology-Summer_2023.pdf)
+
+## Draft Syllabi
+Here are draft syllabi for courses I would like to teach.
+
+[Introductory Biology (Non-Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO110_Syllabus_Introductory_Biology.pdf)
+
+[Principles of Biology (Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO120_Syllabus_Principles_Biology.pdf)
 
 [Community Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO300_Syllabus_Community_Ecology.pdf)
 
 [Biological Data Analysis Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO380_Syllabus_Biological_Data_Analysis.pdf)
 
 [Plant Ecology Draft Syllabus](https://dmurraystoker.github.io/assets/course_syllabi/BIO150_Syllabus-Plant_Ecology.pdf)
-
-[Introductory Biology (Non-Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO110_Syllabus_Introductory_Biology.pdf)
-
-[Principles of Biology (Majors)](https://dmurraystoker.github.io/assets/course_syllabi/BIO120_Syllabus_Principles_Biology.pdf)
 
 
 # Example Teaching Resources
