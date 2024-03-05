@@ -5,7 +5,7 @@ author_profile: true
 title: "Research"
 classes: wide
 toc: true
-last_modified_at: 12 December 2023
+last_modified_at: 5 March 2024
 ---
 
 # Urban Ecology & Evolution
@@ -36,7 +36,7 @@ Bacteria and fungi comprising the microbiome are important for plant community a
 
 For this experiment, I am using 30 populations of white clover from an urbanization gradient in the Greater Toronto Area, ON, Canada. Each population is crossed with three microbiome (local, nonloca-rural, and nonlocal-urban) and two nitrogen (10 mM KNO<sub>3</sub>, ambient N) treatments, with 6 replicates for each treatment combination (1080 total plants). At the end of the experiment, I measured fitness estimates for both the plant and rhizobia. 
 
-Our results show a spatial mosaic of local adaptation, with stronger local adaptation for rhizobia than white clover. While nitrogen addition (N) strongly influenced plant biomass and nodule density, it did not consistently mediate patterns of local adaptation. The strength of local adaptation was positively related between white clover and rhizobia under N addition, suggesting that soil N mediates coadaptation between white clover and rhizobia. Local adaptation was not influenced by urbanization, indicating that while urbanization does influence the ecology of plant-microbe interactions, it does not disrupt local adaptation and coevolution. If you would like to read more, [the preprint is available on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.16.553632v1).
+Our results show a spatial mosaic of local adaptation, with stronger local adaptation for rhizobia than white clover. While nitrogen addition (N) strongly influenced plant biomass and nodule density, it did not consistently mediate patterns of local adaptation. The strength of local adaptation was positively related between white clover and rhizobia under N addition, suggesting that soil N mediates coadaptation between white clover and rhizobia. Local adaptation was not influenced by urbanization, indicating that while urbanization does influence the ecology of plant-microbe interactions, it does not disrupt local adaptation and coevolution. If you would like to read more, [the preprint is available on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.16.553632v1) and the article is in press at Journal of Ecology.
 
 <br/>
 
