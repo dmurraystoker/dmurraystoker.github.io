@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "David Murray-Stoker"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "David Murray-Stoker"
+name                     : "David Murray-Stoker, Ph.D."
 description              : "Community & Evolutionary Ecology"
 url                      : https://dmurraystoker.github.io
 # baseurl                  : /landing
