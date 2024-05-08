@@ -1,13 +1,24 @@
 ---
-- id: Murray-Stoker-Johnson_2023
+- id: Murray-Stoker_et_al_2024
+  authors: Murray-Stoker, D., J. S. Santangelo, M. Szulkin, and M. T. J. Johnson.
+  title: Comparing approaches to quantify urbanization on a multicontinental scale.
+  journal: bioRxiv
+  year: 2024
+  volume:
+  pages: preprint
+  openaccess: true
+  pdf-url: https://www.biorxiv.org/content/10.1101/2024.04.30.591983v1
+  data-url: https://doi.org/10.5281/zenodo.11038230
+
+- id: Murray-Stoker-Johnson_2024
   authors: Murray-Stoker, D., and M. T. J. Johnson.
   title: Mosaic of local adaptation between white clover and rhizobia along an urbanization gradient.
-  journal: bioRxiv
-  year: 2023
-  volume:
-  pages: preprint (Accepted at Journal of Ecology)
-  openaccess: true
-  pdf-url: https://www.biorxiv.org/content/10.1101/2023.08.16.553632v1
+  journal: Journal of Ecology
+  year: 2024
+  volume: 112
+  pages: 1150-1163
+  openaccess: false
+  pdf-url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14292
   data-url: https://doi.org/10.5281/zenodo.8253951
   
 - id: Murray-Stoker_et_al_2023
