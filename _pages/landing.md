@@ -10,7 +10,7 @@ header:
 excerpt: Department of Ecology & Evolutionary Biology <br> University of Toronto
 
 intro:
-  - excerpt: 'I received my Ph.D. under the supervision of [Marc Johnson](https://evoecolab.wordpress.com/) studying the ecology and evolution of plant-microbe interactions in urban environments. I am also passionate about STEM pedagogy, particularly finding ways to make lectures, labs, and research experiences more engaging, accessible, and inclusive.'
+  - excerpt: 'I have recently started as an Assitant Professor of Biology at Clayton State University! Updates will be made to my website in due course.'
 
 feature_row:
   - image_path: /assets/images/clover_MN_building.jpg
