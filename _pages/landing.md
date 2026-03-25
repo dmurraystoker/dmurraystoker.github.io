@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coweeta_basin.jpeg
-excerpt: Department of Ecology & Evolutionary Biology <br> University of Toronto
+excerpt: School of Sciences <br> Clayton State University
 
 intro:
   - excerpt: 'I have recently started as an Assitant Professor of Biology at Clayton State University! Updates will be made to my website in due course.'
